@@ -38,7 +38,7 @@ Nachdem alle Daten ausgewertet waren, habe ich mir Gedanken über den Aufbau des
 
 Im internationalen Fussball gibt das Geld längst den Ton an. Das beste Beispiel ist die englische Premier League, wo Clubs nur so mit Geld um sich schmeissen und auch für einen durchschnittlichen Spieler schon mal dutzende Millionen ausgeben. Steinreiche Besitzer und Investoren sowie der lukrative TV-Vertrag ermöglichen solche Eskapaden. Oft zahlt sich der Einsatz aus: An der Spitze der Premier League stehen diejenigen Teams, die sich die teuersten Spieler leisten können.
 
-Geld regiert den Fussball, heisst es. Aber trifft das auch auf die Schweiz zu? In der Super League wird natürlich mit kleinen Brötchen gebacken. Trotzdem ist der gestiegene Einfluss des Geldes auch hierzulande spürbar. Die Clubs leisten sich immer teurere Spieler, wie Zahlen Seite transfermarkt.ch zeigen. Der Gesamtmarktwert aller Mannschaften respektive Spieler hat sich in den letzten 14 Jahren vervielfacht.
+Geld regiert den Fussball, heisst es. Aber trifft das auch auf die Schweiz zu? In der Super League wird natürlich mit kleineren Brötchen gebacken. Trotzdem ist der gestiegene Einfluss des Geldes auch hierzulande spürbar. Die Clubs leisten sich immer teurere Spieler, wie Zahlen Seite transfermarkt.ch zeigen. Der Gesamtmarktwert aller Mannschaften respektive Spieler hat sich in den letzten 14 Jahren vervielfacht.
 
 **GRAFIK: Entwicklung des Gesamtmarktwerts der Liga (alle Saisons)**
 ![Entwicklung des Gesamtmarktwerts](https://github.com/yannickw3/Abschlussarbeit/blob/master/graphics/gesamtmarktwert.png "Entwicklung des Gesamtmarktwerts")
@@ -63,7 +63,7 @@ Nur Lugano und Neuchatel Xamax verfügten über ein noch günstigeres Kader. Die
 
 Neben Thun schnitten auch Zürich, St.Gallen und Lugano besser ab, als es der Marktwert vor Beginn der Saison erahnen liess. Eine Saison allein ist aber noch nicht so aussagekräftig. Wir haben deshalb berechnet, wie oft die Clubs in den letzten 14 Jahren ihre Erwartungen übertrafen oder im Gegenteil nicht erfüllten.
 
-Am häufigsten überraschte auch über alle ausgewerteten Saisons gesehen der FC Thun. Kumuliert hat 30 Plätze besser abgeschnitten als es seine finanziellen Möglichkeiten erahnen liessen. Mit grossen Abstand folgen der FC Luzern mit 13 und Lugano mit 5 gutgemachten Plätzen. Am meisten unter seinen Erwartungen blieb der FC Sion. Auch die Grasshoppers hätten sich anhand ihres Marktwerts in vielen Saisons besser platzieren müssen, hatten also ein teures Team, das aber nicht erfolgreich war.
+Am häufigsten überraschte auch über alle ausgewerteten Saisons gesehen der FC Thun. Kumuliert hat er 30 Plätze besser abgeschnitten als es seine finanziellen Möglichkeiten erahnen liessen. Mit grossen Abstand folgen der FC Luzern mit 13 und Lugano mit 5 gutgemachten Plätzen. Am meisten unter seinen Erwartungen blieb der FC Sion. Auch die Grasshoppers hätten sich anhand ihres Marktwerts in vielen Saisons besser platzieren müssen, hatten also ein teures Team, das aber nicht erfolgreich war.
 
 **GRAFIK: Die Over- und Underperformer der Liga (alle Saisons)**
 ![Over- und Underperformer](https://github.com/yannickw3/Abschlussarbeit/blob/master/graphics/over_underperformer.png "Over- und Underperformer")
@@ -82,11 +82,13 @@ Das Ganze lässt sich auch rechnerisch belegen. Wir haben ausgewertet, wieviel G
 In der aktuellen Saison hat der FC Basel am meisten ausgegeben. Im Gegensatz zu den Grasshoppers, die in diesem Ranking den unrühmlichen zweiten Platz belegen, sind die Basler damit aber immerhin auf dem zweiten Platz gelandet. GC hingegen musste als Zweitletzter in die Barrage. St.Gallen und Thun investierten am wenigsten, wobei Letztere trotz kleinem Budget erfolgreich waren.
 
 **GRAFIK: Geld pro Punkt (aktuelle Saison)**
+
 ![Geld pro Punkt (aktuelle Saison)](https://github.com/yannickw3/Abschlussarbeit/blob/master/graphics/geld_saison1819.png "Geld pro Punkt (aktuelle Saison)")
 
 Über alle Saisons gesehen hat Xamax im Schnitt noch weniger ausgegeben als Thun. Allerdings gibt es zwischen diesen Teams grosse Unterschiede: Während die Berner Oberländer überraschten und sich mehrmals für europäische Wettbewerbe qualifizieren konnten, klassierte sich Xamax durchgehend in der hinteren Hälfte der Tabelle, stieg sogar zweimal ab. 
 
 **GRAFIK: Geld pro Punkt (alle Saisons)**
+
 ![Geld pro Punkt (alle Saisons)](https://github.com/yannickw3/Abschlussarbeit/blob/master/graphics/geld_alle_saisons.png "Geld pro Punkt (alle Saisons)")
 
 Der FC Sion investierte am meisten, mit mässigem Erfolg in der Liga. Immerhin holten die Walliser seit 2005 viermal den Cup, der in dieser Statistik nicht enthalten ist. Der FC Basel liess sich seine Punkte ebenfalls viel kosten, das zahlte sich aber auch aus: Seit der Saison 2005 wurde er 10 Mal Meister.
