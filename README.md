@@ -50,6 +50,7 @@ Seit der Saision 2005/2006, als die transfermarkt.ch zum ersten Mal alle Marktwe
 Auch in der Schweiz fliesst also immer mehr Geld in den Fussball. Aber was hat das für Auswirkungen? Ist ein Club auch in der Super League erfolgreicher, wenn er mehr Geld investieren und sich ein teures Team leisten kann? Um diese Frage zu beantworten, haben wir die Marktwerte und erzielten Punkte aller Mannschaften seit 2005 ins Verhältnis gesetzt.
 
 **GRAFIK: Je mehr Geld, desto mehr Punkte (alle Saisons)**
+
 ![Je mehr Geld, desto mehr Punkte](https://github.com/yannickw3/Abschlussarbeit/blob/master/graphics/regression_alle%20saisons.png "Je mehr Geld, desto mehr Punkte")
 
 Das Resultat: Es gibt einen klaren Zusammenhang zwischen Marktwerten und Punkten. Das heisst, je teurer die Mannschaften sind, desto mehr Punkte holen sie. Die Grafik zeigt aber auch, dass es immer wieder Ausreisser gibt, also Ausnahmen von der Regel. Das sind Clubs, die überraschen - in der aktuellen Saison zum Beispiel der FC Thun. Seine Mannschaft hatte mit 18,25 Millionen Franken den drittkleinsten Marktwert der Liga. Trotzdem schaffte es Thun auf den dritten Rang (Stand Winterpause, auch bei nachfolgenden Aussagen).
@@ -65,14 +66,14 @@ Neben Thun schnitten auch Zürich, St.Gallen und Lugano besser ab, als es der Ma
 Am häufigsten überraschte auch über alle ausgewerteten Saisons gesehen der FC Thun. Kumuliert hat 30 Plätze besser abgeschnitten als es seine finanziellen Möglichkeiten erahnen liessen. Mit grossen Abstand folgen der FC Luzern mit 13 und Lugano mit 5 gutgemachten Plätzen. Am meisten unter seinen Erwartungen blieb der FC Sion. Auch die Grasshoppers hätten sich anhand ihres Marktwerts in vielen Saisons besser platzieren müssen, hatten also ein teures Team, das aber nicht erfolgreich war.
 
 **GRAFIK: Die Over- und Underperformer der Liga (alle Saisons)**
-![Over- und Underperformer](http://localhost:8888/view/graphics/over_underperformer.png "Over- und Underperformer")
+![Over- und Underperformer](https://github.com/yannickw3/Abschlussarbeit/blob/master/graphics/over_underperformer.png "Over- und Underperformer")
 
 (Der Stolperstein: Während YB, Basel und die Grasshoppers alle ausgewerteten Saisons in der Super League spielten, mischte Xamax nur sechs Jahre in der obersten Liga mit. Bei Yverdon-Sport, das längst in den Niederungen des Schweizer Fussballs versunken ist, war es sogar nur eine. Hier könnte man eine Einschränkung machen: z.B. nur Mannschaften berücksichtigt, die mindestens fünf Saisons dabei waren.)
 
 Man könnte diese Berechnungen auch anders visualisieren. Zum Beispiel, indem man anzeigt, wie viele Male die Clubs die Erwartungen übertrafen, einfach erfüllten oder auch nicht erfüllten. So sieht man den Anteil der Saisons, in denen sie enttäuschten oder überraschten. Dass die Basler so oft "nur" die Erwartungen erfüllten, hat damit zu tun, dass sie jahrelang das teuerste Kader hatten und damit die Meisterschaft gewannen. Sie waren also trotzdem erfolgreich, ergo: Ich muss bei jedem Team noch schauen, was sie im untersuchten Zeitraum erreicht haben (Titel, Teilnahme europäischer Wettbewerb).
 
 **GRAFIK: Die Over- und Underperformer der Liga (alle Saisons)**
-![Over- und Underperformer](http://localhost:8888/view/graphics/over_underperformer2.png "Over- und Underperformer")
+![Over- und Underperformer](https://github.com/yannickw3/Abschlussarbeit/blob/master/graphics/over_underperformer2.png "Over- und Underperformer")
 
 Das Ganze lässt sich auch rechnerisch belegen. Wir haben ausgewertet, wieviel Geld die Clubs (indirekt) pro Punkt investiert haben. 
 
@@ -81,12 +82,12 @@ Das Ganze lässt sich auch rechnerisch belegen. Wir haben ausgewertet, wieviel G
 In der aktuellen Saison hat der FC Basel am meisten ausgegeben. Im Gegensatz zu den Grasshoppers, die in diesem Ranking den unrühmlichen zweiten Platz belegen, sind die Basler damit aber immerhin auf dem zweiten Platz gelandet. GC hingegen musste als Zweitletzter in die Barrage. St.Gallen und Thun investierten am wenigsten, wobei Letztere trotz kleinem Budget erfolgreich waren.
 
 **GRAFIK: Geld pro Punkt (aktuelle Saison)**
-![Geld pro Punkt (aktuelle Saison)](http://localhost:8888/view/graphics/geld_saison1819.png.jpg "Geld pro Punkt (aktuelle Saison)")
+![Geld pro Punkt (aktuelle Saison)](https://github.com/yannickw3/Abschlussarbeit/blob/master/graphics/geld_saison1819.png "Geld pro Punkt (aktuelle Saison)")
 
 Über alle Saisons gesehen hat Xamax im Schnitt noch weniger ausgegeben als Thun. Allerdings gibt es zwischen diesen Teams grosse Unterschiede: Während die Berner Oberländer überraschten und sich mehrmals für europäische Wettbewerbe qualifizieren konnten, klassierte sich Xamax durchgehend in der hinteren Hälfte der Tabelle, stieg sogar zweimal ab. 
 
 **GRAFIK: Geld pro Punkt (alle Saisons)**
-![Geld pro Punkt (alle Saisons)](http://localhost:8888/view/graphics/geld_alle_saisons.png "Geld pro Punkt (alle Saisons)")
+![Geld pro Punkt (alle Saisons)](https://github.com/yannickw3/Abschlussarbeit/blob/master/graphics/geld_alle_saisons.png "Geld pro Punkt (alle Saisons)")
 
 Der FC Sion investierte am meisten, mit mässigem Erfolg in der Liga. Immerhin holten die Walliser seit 2005 viermal den Cup, der in dieser Statistik nicht enthalten ist. Der FC Basel liess sich seine Punkte ebenfalls viel kosten, das zahlte sich aber auch aus: Seit der Saison 2005 wurde er 10 Mal Meister.
 
